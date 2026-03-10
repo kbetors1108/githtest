@@ -1,0 +1,1 @@
+create TABLE xxtest(id NUMBER, name VARCHAR2(20));
